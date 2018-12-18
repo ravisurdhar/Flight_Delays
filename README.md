@@ -3,4 +3,4 @@ Welcome to my Jupyter Notebook series exploring the [2015 Flight Delays and Canc
 
 You'll need to download the files from Kaggle to follow along with this notebook.
 
-Please start with the notebook labeled 1. Introduction & Data Cleanup
+Please start with the notebook labeled "1. Introduction & Data Cleanup"
